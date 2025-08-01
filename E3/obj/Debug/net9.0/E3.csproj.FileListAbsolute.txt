@@ -1,0 +1,15 @@
+C:\Users\diegu\Documents\2025\Programación 2\E3\bin\Debug\net9.0\E3.exe
+C:\Users\diegu\Documents\2025\Programación 2\E3\bin\Debug\net9.0\E3.deps.json
+C:\Users\diegu\Documents\2025\Programación 2\E3\bin\Debug\net9.0\E3.runtimeconfig.json
+C:\Users\diegu\Documents\2025\Programación 2\E3\bin\Debug\net9.0\E3.dll
+C:\Users\diegu\Documents\2025\Programación 2\E3\bin\Debug\net9.0\E3.pdb
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.AssemblyInfoInputs.cache
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.AssemblyInfo.cs
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.csproj.CoreCompileInputs.cache
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.sourcelink.json
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.dll
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\refint\E3.dll
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.pdb
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\E3.genruntimeconfig.cache
+C:\Users\diegu\Documents\2025\Programación 2\E3\obj\Debug\net9.0\ref\E3.dll

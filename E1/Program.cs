@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Ejercicio 1 multiplicacion por tabla 10
 Console.WriteLine("Ingresa un número entero");
 int entero = Convert.ToInt32(Console.ReadLine());
 if (entero>0)
